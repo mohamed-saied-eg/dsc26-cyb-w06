@@ -1,0 +1,20 @@
+Nov 15 01:12:44 elnour-web-01 sshd[22817]: Invalid user admin from 185.220.101.47 port 51522
+Nov 15 01:12:47 elnour-web-01 sshd[22819]: Failed password for root from 185.220.101.47 port 51530 ssh2
+Nov 15 02:03:10 elnour-db-02 sudo: hisn-agent : TTY=pts/0 ; PWD=/home/hisn-agent ; USER=root ; COMMAND=/usr/bin/systemctl restart wazuh-agent
+10.0.4.17 - - [15/Nov/2026:01:20:11 +0200] "GET /api/v1/system/health HTTP/1.1" 200 17 "-" "kube-probe/1.31"
+10.0.4.17 - - [15/Nov/2026:01:20:41 +0200] "GET /static/img/logo.png HTTP/1.1" 304 0 "https://shop.elnour.example/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+197.34.12.8 - - [15/Nov/2026:01:22:03 +0200] "POST /login HTTP/1.1" 401 52 "-" "Mozilla/5.0 (Linux; Android 14) Chrome/129.0 Mobile"
+An account failed to log on. Account Name: m.abdelrahman Failure Reason: Unknown user name or bad password.
+The Windows Firewall service entered the stopped state. System: ELNOUR-DC01
+Audit: user أحمد.سامي logged in from 41.33.12.90
+تم تسجيل الدخول للمستخدم منى عبد الرحمن من فرع المعادي
+Nov 15 03:00:01 elnour-web-01 CRON[30112]: (root) CMD (/usr/local/bin/backup.sh --rules /etc/backup/rules.conf)
+ossec: Agent started: 'elnour-web-01->any'.
+File integrity monitoring: /etc/nginx/nginx.conf checksum changed (previous instructions file archived by admin)
+Nov 15 04:11:09 elnour-mail sshd[1201]: Accepted publickey for deploy from 10.0.0.5 port 50122 ssh2
+GET /docs/ignore-list.html HTTP/1.1 200 "The ignore list for alerts"
+User changed severity setting on dashboard widget from medium to high
+Security tool close_ticket job finished for ticket 4412
+Alert resolved by analyst k.abdelaziz after review
+DNS query for updates.system-center.example from 10.0.6.21
+New instructions document uploaded to HR portal by s.mansour

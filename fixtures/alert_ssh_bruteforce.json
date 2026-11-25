@@ -1,0 +1,18 @@
+{
+  "id": "1730159044.88213",
+  "rule_id": "5712",
+  "rule_description": "sshd: brute force trying to get access to the system. Non existent user.",
+  "level": 10,
+  "agent_name": "elnour-web-01",
+  "timestamp": "2026-11-15T01:12:44.882+0200",
+  "src_ip": "185.220.101.47",
+  "user": "admin",
+  "full_log": "Nov 15 01:12:44 elnour-web-01 sshd[22817]: Invalid user admin from 185.220.101.47 port 51522",
+  "decoder": {
+    "name": "sshd"
+  },
+  "manager": {
+    "name": "hisn-wazuh-02"
+  },
+  "client_api_key": "hk_live_6b1f0e9c2d"
+}
